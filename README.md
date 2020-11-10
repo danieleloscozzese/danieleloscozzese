@@ -22,7 +22,7 @@ I use the masculine pronouns "he", "him" and "his".
 ## Work
 
 I work for [Subito.it](https://www.subito.it), an online marketplace,
-and I'm a generalist and with a front-end specialism.
+and I'm a generalist developer and with a front-end specialism.
 
 Since joining the company, I've worked on rebuilding the front-end
 of the listing and detail pages, and rolling out a rebrand of the site.
@@ -30,7 +30,8 @@ of the listing and detail pages, and rolling out a rebrand of the site.
 My team focussed on web performance in Q2 of 2020 and with an effort across the whole company we
 made a revolution in the performance of the site, as well as how we track it and think about it.
 
-Now in Q3 I've started using some [Go](https://golang.org) to get more involved in creating and maintaining our services.
+I've used some [Go](https://golang.org) to get more involved in creating and maintaining our services,
+and managed to launch a small service which I wrote almost by myself.
 
 ## Life
 
