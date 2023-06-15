@@ -42,12 +42,11 @@ candidate and that the candidate has a positive experience.
 
 ### Tech ⚡
 
-I use the Core Web Vitals as a key metric on a daily basis and follow blogs from
-Google and other developers to learn about ways to optimize and improve what I ship.
-
 I've recently started to focus on writing better JS, with a focus on a 
-maximal use of the language and it's vocabulary and syntax to get more runtime
+maximal use of the language and its vocabulary and syntax to get more runtime
 guarantees from the code.
+I've also doubled-down on Next.js and on trying to get as much out of the framework as possible,
+reducing custom implementations where possible.
 
 ### Italian 🇮🇹
 
