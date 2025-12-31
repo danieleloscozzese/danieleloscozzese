@@ -65,6 +65,10 @@ part of the
 
 ### Languages 💬
 
+#### English `en-GB`
+
+I'm a native speaker, with a Scottish accent.
+
 #### Italian `it-IT`
 
 I'm a fluent and daily speaker of Italian and am certified to [B2](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions).
